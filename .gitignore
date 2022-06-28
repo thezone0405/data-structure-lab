@@ -1,4 +1,7 @@
-node_modudles/
-build/
+# Dependency DIR
+node_modules
+
+# BUILD
+build
 
 package-lock.json
