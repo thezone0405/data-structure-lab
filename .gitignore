@@ -1,0 +1,4 @@
+node_modudles/
+build/
+
+package-lock.json
